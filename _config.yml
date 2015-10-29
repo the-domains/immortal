@@ -1,0 +1,23 @@
+name: Immortal
+favicon: null
+layout_spectrum: 0.602437253575772
+typography_spectrum: 0.04573419154621661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03631414822302759
+  lightness: 0.9861989368218929
+  saturation: 0.29720547585748136
+  rhythmicContrast: 0.04984628898091614
+purpose: []
